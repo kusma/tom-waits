@@ -2,9 +2,9 @@
 var myNodelist = document.getElementsByTagName("LI");
 var i;
 for (i = 0; i < myNodelist.length; i++) {
-  var bar = 'bar' + i;
+  var bar = myNodelist[i].id;
   console.log('bar: ' + bar);
-  if (localStorage.getItem('bar' + i) === '1')
+  if (localStorage.getItem(bar) === '1')
     myNodelist[i].classList.toggle('checked');
 }
 
