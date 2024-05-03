@@ -6,7 +6,7 @@ layout: home
 ---
 <ul id="myUL" class="list-group">
 {% for bar in site.data.bars %}
-<li class="list-group-item" id="bar{{ forloop.index0 }}">{{ bar }}</li>
+<li class="list-group-item" id="{{ bar.id }}">{{ bar.name }}</li>
 {% endfor %}
 </ul>
 

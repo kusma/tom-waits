@@ -1,24 +1,48 @@
-- Ruinen
-- Cafékontoret
-- Oslo Sportsbar
-- No. 53
-- Klosterenga Café
-- Bruket
-- Cafeteateret pop-up bar
-- Enerhaugen Café
-- Eagle Pub
-- Olympen
-- Grønland Gym
-- MG 10
-- Oslo Mekaniske Verksted
-- Asylet
-- Godthåb
-- Rock In
-- Dattera til Hagen
-- Bob's
-- Venner
-- Under brua
-- Cafe con Bar
-- Queens
-- Champs
-- Fiasco
+- name: Ruinen
+  id: ruinen
+- name: Cafékontoret
+  id: cafekontoret
+- name: Oslo Sportsbar
+  id: oslo-sportsbar
+- name: No. 53
+  id: no-53
+- name: Klosterenga Café
+  id: klosterenga-cafe
+- name: Bruket
+  id: bruket
+- name: Cafeteateret pop-up bar
+  id: cafeteteret
+- name: Enerhaugen Café
+  id: enerhaugen-cafe
+- name: Eagle Pub
+  id: eagle pub
+- name: Olympen
+  id: lompa
+- name: Grønland Gym
+  id: gronland-gym
+- name: MG 10
+  id: mg-10
+- name: Oslo Mekaniske Verksted
+  id: oslo-mek
+- name: Asylet
+  id: asylet
+- name: Godthåb
+  id: godthaab
+- name: Rock In
+  id: rock-in
+- name: Dattera til Hagen
+  id: dattera
+- name: Bob's
+  id: bobs
+- name: Venner
+  id: venner
+- name: Under brua
+  id: under brua
+- name: Cafe con Bar
+  id: cafe-con-bar
+- name: Queens
+  id: queens
+- name: Champs
+  id: champs
+- name: Fiasco
+  id: fiasco
