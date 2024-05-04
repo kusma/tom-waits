@@ -6,7 +6,9 @@
   id: cafekontoret
 - name: Bearnies
   id: bearnies
-- name: Cafeteateret pop-up bar
+- name: Rampen
+  id: rampen
+- name: Cafeteateret
   id: cafeteateret
 - name: Enerhaugen Café
   id: enerhaugen
@@ -16,8 +18,6 @@
   id: eagle-pub
 - name: Olympen Bar & Resturant
   id: lompa
-- name: Mad Goat
-  id: mg10
 - name: Oslo Mekaniske Verksted
   id: oslo-mek
 - name: Asylet
@@ -38,3 +38,5 @@
   id: champ
 - name: Cafe Fiasco
   id: fiasco
+- name: Folk
+  id: folk
