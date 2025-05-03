@@ -2,12 +2,12 @@
   id: klosterenga-cafe
 - name: Preik
   id: preik
+- name: Ladegaarden
+  id: ladegaarden
 - name: Cafékontoret
   id: cafekontoret
 - name: Bernies
   id: bearnies
-- name: Rampen
-  id: rampen
 - name: Cafeteateret
   id: cafeteateret
 - name: Enerhaugen Café
@@ -26,6 +26,8 @@
   id: rock-in
 - name: Dattera til Hagen
   id: dattera
+- name: Sorrento
+  id: sorrento
 - name: Bob's Pub
   id: bobs
 - name: Under Brua Bar
@@ -34,9 +36,7 @@
   id: abelone
 - name: Queens Pub
   id: queens
-- name: Champ Sportsbar
-  id: champ
+- name: Folk i Storgata
+  id: folk
 - name: Cafe Fiasco
   id: fiasco
-- name: Folk
-  id: folk
