@@ -12,10 +12,8 @@ layout: home
   </button>
 </p>
 <div class="collapse" id="vis-beskrivelse">
-  <div class="card card-body">
-    Dette er en enkel web app for å holde oversikt over hvilke barer man har vært innom på Tom Waits løpet.
-    Ingen informasjon lagres utenom din enhet. Den er gratis å bruke. Del gjerne med andre.
-  </div>
+  Dette er en enkel web app for å holde oversikt over hvilke barer man har vært innom på Tom Waits løpet.
+  Ingen informasjon lagres utenom din enhet. Den er gratis å bruke. Del gjerne med andre.
 </div>
 
 <ul id="myUL" class="list-group">
