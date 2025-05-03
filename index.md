@@ -18,7 +18,11 @@ layout: home
   Del gjerne med andre, ved å bruke QR koden under.
   </p>
 
-  <img class="img-fluid" src="./qr-code.svg" alt="qr-code for sharing">
+  <img class="img-fluid w-100" src="./qr-code.svg" alt="qr-code for sharing">
+
+  <p>
+    Listen med barer kan redigeres <a href="https://github.com/kusma/tom-waits/edit/master/_data/bars.yml">her</a> (krever GitHub konto).
+  </p>
 </div>
 
 <ul id="myUL" class="list-group">
