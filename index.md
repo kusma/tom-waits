@@ -12,8 +12,13 @@ layout: home
   </button>
 </p>
 <div class="collapse pb-3" id="vis-beskrivelse">
+  <p>
   Dette er en enkel web app for å holde oversikt over hvilke barer man har vært innom på Tom Waits løpet.
-  Ingen informasjon lagres utenom din enhet. Den er gratis å bruke. Del gjerne med andre.
+  Ingen informasjon lagres utenom din enhet. Den er gratis å bruke.
+  Del gjerne med andre, ved å bruke QR koden under.
+  </p>
+
+  <img class="img-fluid" src="./qr-code.svg" alt="qr-code for sharing">
 </div>
 
 <ul id="myUL" class="list-group">
