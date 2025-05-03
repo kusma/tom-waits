@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Tom Waits 2025 Tracker
+# Tom Waits Tracker
 
 <p>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#vis-beskrivelse" aria-expanded="false" aria-controls="vis-beskrivelse">
