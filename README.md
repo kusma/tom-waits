@@ -4,4 +4,4 @@ Dette er en enkel web app for å holde oversikt over hvilke barer man har vært 
 
 Del gjerne med andre, ved å bruke QR koden under. 
 
-![](https://kusma.github.io/tom-waits/qr-code.svg)
+![](qr-code.svg)
